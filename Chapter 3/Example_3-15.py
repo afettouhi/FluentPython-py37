@@ -1,0 +1,1 @@
+found = len(needles & haystack)
